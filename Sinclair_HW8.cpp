@@ -25,9 +25,9 @@ double totalPaid = amountForStock + commissionEarned;
   cout << "The total amount paid is $ " << totalPaid << endl;
   return 0;
 */
-double numberOfShares;
-double pricePerShare;
-double commissionToPay;
+double numberOfShares; // number of shares purchased
+double pricePerShare; // price per share purchased
+double commissionToPay; // commission to pay shareholder 
 
 
  cout << "Enter Number of Shares ";
